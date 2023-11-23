@@ -8,27 +8,26 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Cairbre Smith 
+    tagline: IT Enterprise Architect and Cyber Security Advocate
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: cairbre@cairbre.co.uk 
+    phone: 07875007123 
+    timezone: Europe/London Timezone/
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    website: blog.cairbre.co.uk #do not add http://
+    linkedin: cairbresmith
+    github: cairbresmith 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    twitter: '@cairbresmith'
+    soundcloud: cairbresmith
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://cairbre.co.uk/pdf/cv/cairbresmith.pdf
 
     languages:
       title: Languages
@@ -36,58 +35,43 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
-          level: Professional
-
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
+        - item: Music
+          link: soundcloud.com
 
-        - item: Snowboarding
-          link:
+        - item: Golf
+          link: www.amgc.co.uk
 
-        - item: Cooking
-          link:
+        - item: Charity
+          link: www.surplustosupper.org
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A seasoned and well accomplished IT Leader. 
+      A passion for Technical Architecture / Cyber Security with a proven track
+      record for design, build and implementation. Plying my trade across the breadth 
+      of the IT business lanscape. I have operated at Technical, Solution and 
+      Enterprise Architecture Levels. 
+      I like to pride myself on exceeding the client expectations. 
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BA Business Studies and Sports Science
+        university: University of Surrey
+        time: 2001 - 2004
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Dual Hours degree of Business and Sports Science. 
+          Major degree in Business Studies with a Minor degree in Sport Science.
+            - Final Thesis was written on: 'The effects of Unsolicited Email within the workplace'
+      - school: BSc in Applied Mathematics
+        school: Millfield School 
+        time: 1992 - 2001
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Won a scholarship place to Millfield School, Somerset.
+            - Representive honours Cricket, Hockey and Tennis.
 
 experiences:
     title: Experiences
