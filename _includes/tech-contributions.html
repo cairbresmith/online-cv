@@ -1,22 +1,22 @@
-{% assign oss = site.data.data.oss %}
-{% if oss %}
-<section class="section oss-section">
+{% assign tech = site.data.data.tech %}
+{% if tech %}
+<section class="section tech-section">
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-box-open fa-stack-1x fa-inverse"></i>
     </span>
-    {{ oss.title }}
+    {{ tech.title }}
   </h2>
 
-  {% if oss.intro %}
+  {% if tech.intro %}
   <div class="intro">
-    <p>{{ oss.intro }}</p>
+    <p>{{ tech.intro }}</p>
   </div>
   <!--//intro-->
   {% endif %}
 
-  {% for contribution in oss.contributions %}
+  {% for contribution in tech.contributions %}
   <div class="item">
 
     <span class="project-title">
@@ -31,6 +31,9 @@
     - <span class="project-tagline">{{ contribution.tagline }}</span>
     {% endif %}
 
+    {% if contribution.details %}
+    - <span class="project-details">{{ contribution.details }}</span>
+    {% endif %}
   </div>
   <!--//item-->
   {% endfor %}

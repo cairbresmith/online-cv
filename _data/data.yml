@@ -27,7 +27,8 @@ sidebar:
     #stack-overflow: # Number/Username
     #codewars:
     #goodreads: # Number-Username,
-    pdf: http://cairbre.co.uk/pdf/cv/cairbresmith.pdf
+    pdf: http://blog.cairbre.co.uk/pdf/cairbresmith.pdf
+    print me: http://cairbre.co.uk/print
 
     languages:
       title: Languages
@@ -83,131 +84,114 @@ experiences:
           Consulting Cyber Security and Infrastructure Architect. Resposibility
           for architecture patterns and design. Provide support to project teams
           and engaging clients.
-            - Design and Assurance for inhouse application service.
+            - Design and Assurance for inhouse application services.
             - Responsibiity for cyber security engagement with clients.
-      - role: Consultant Lead BAU and Infrastructure Architect
+      - role: Consultant Lead BAU and Infrastructure and Network Architect
         time: 2018 October - Present
         company: His Majesty's Courts and Tribunals Service, GOV UK
         details: |
-          Consultant Enterprise Architect for live business application estate.
+          Consultant Enterprise Architect for Infrastucture, Network and BAU application estate.
           Provide strategic direction of travel for infrastructute and network services. 
-          Architectural technical board approval and chair responsibility.  
-            - 
+          Provide Architectural technical assurance for technical board approval.   
+            - Exmaples of work can be provided on request. 
       - role: Consultant Lead Technical Architect
         time: 2017 May - 2018 October
         company: Minsitry of Justice, GOV UK
         details: |
           Consultant Lead Technical Architect for Hosting Services. 
           Responsibilities for supplier designs. Requirement for review, approve and assure supplier proposed designs.
-          Part of the MOJ Systems Integration Assurance function. Led technical integation standards between suppliers. 
+          Key member of the MOJ Systems Integration Assurance function. Led technical integration standards between suppliers. 
             - Led the technology roadmap for infrastructure design; development and deployment with TDA forums.
       - role: Infrastructure Architect / Network Architect 
         time: 2005 May - 2017 May
         company: Primark Stores LTD, Reading
         details: |
           Consultant Network and Infrastructure Engineer and Architect. 
-          Designed two HA Ireland Data Centre’s and 1 UK based on Software Design Data Centre Model. 
-          Designed and implemented secure banking interconnect for retail ePOS environment.
-          Designed and implemented multiple WAN / MAN upgrades including benchmarking exercises.
-          Analyzed the company’s network-hardware procurement spend and implemented a cost analysis saving over £10,000 per site. 
-            - Team lead for technical and professional services staff for design, implement operate 350+ site MPLS WAN
+            - Designed two HA Ireland Data Centre’s and 1 UK based on Software Design Data Centre Model. 
+            - Designed and implemented secure banking interconnect for retail ePOS environment.
+            - Designed and implemented multiple WAN / MAN upgrades including benchmarking exercises.
+            - Analyzed the company’s network-hardware procurement spend and implemented a cost analysis saving over £10,000 per site. 
+            - Team lead for technical and professional services staff.  Technical Lead for the design, implementation and operation of 350+ site MPLS WAN
       - role: Infrastructure Architect / Network Architect 
         time: 2005 - Present
         company: Comrad LTD, London
         details: |
-          Director of Engineering 
-          Technical Engineer providing expert analysis and solution proposals.
-          Technical solution desinger for Managed Service Provider to nuclear energy customer.
-          Consultant Cloud Architect for Cloud Service Partner to UK Gov Shared Business Supplier.
-          Consultant Infrastructure Architect UK Retail Water Company.
-          Network and Infrastructure Engineer Local Education Authority.
+          Director of Engineering.
+            - Technical Engineer providing expert analysis and solution proposals to clients.
+            - Technical Solution Desinger for Managed Service Provider to nuclear energy customer.
+            - Consultant Cloud Architect for Cloud Service Partner to UK Gov Shared Business Supplier.
+            - Consultant Infrastructure Architect UK Retail Water Company.
+            - Network and Infrastructure Engineer Local Education Authority.
             - Designed and Proposed - SDDC solution for Central Government Agency
-            - Arcchtecture Assurance for UK Share Business Supplier Virtual Desktop Platform  
-
+            - Architecture Assurance for UK Share Business Supplier Virtual Desktop Platform  
+            - Hosted, Prepared and presented RFP / RFQ findings for numerous high profile spend projects. I.e. WAN review, Unified Communications Review, Wi-Fi Services within the retail and central gov environments.
+tech:
+     title: Tech Contributions
+     intro: >
+      Some of my day to day activities and hobbies.   
+     contributions:
+      - title: Technology contributions over the years. 
+        link: "N/A"
+        details: |
+          These are some of the technology delivery contributions that i have made over the years.
+      - Technology Contributions over the years. 
+      - Designed and Delivered 2-enterprise voice platforms for multiple cluster integrations across continents. With 9000+ Phones.
+      - Designed and implemented secure banking interconnect for retail ePOS environment.
+      - Designed and delivered B2B lodgment processes and global payment service gateway.
+      - Designed and Implemented ISP Migration Projects both technical and sponsor. 
+      - Designed a 2Million+ sq. ft. Depot Centre IT Infrastructure, inlcuding Communications and Service Layer.
+      - Introduced advanced set of security controls and deliverables for Business-to-Business connections. Lan2Lan VPN policy framework and guidelines.
+      - Integrated secure protocol standards for legacy system / platform transactions.  
+      - Designed and Validated Central Government Agency – DMVPN Overlay Solution. 
 certifications:
       title: Certifications
       list:
-        - name: Forensic Investigator
-          start: 2011
-          end: 2015
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+        - name: Certified Hacking Forensic Investigator
+          organization: EC Council
+          credentialid: Credential on Req
+
+        - name: Certified Ethical Hacker
+          organization: EC Council
+          credentialid: Credential on Req
 
 projects:
     title: Projects
     intro: >
-      I like to tinker with small engineering projects at home, whether IT related, DIY or Gardening.    
-     
+      Some of my day to day activities and hobbies.   
     assignments:
       - title: Junior Organiser - Golf
         link: "amgc.co.uk"
-        tagline: "I am the Junior Organisor for Ashford Manor Golf Club. "
+        details: |
+            I am one of two Junior Organisor's for Ashford Manor Golf Club.
+            - I work with the Pro Team to manage the junior competition schedule. 
+            - I work with the AMGC Mgmt Team to facilitate junior activities.
 
       - title: Surplus 2 Supper
         link: "www.surplustosupper.org"
-        tagline: "Bridging the gap between food waste and food poverty locally."
+        details: |
+             Bridging the gap between food waste and food poverty locally. 
+             - I support the local charity and the amzing work they do with supporting another 120 charities with food supplies.
 
-      - title: building a secure next gen access soltuion - SASE
+      - title: building a secure next generation access soltuion - SASE
         link: "blog.cairbre.co.uk"
-        tagline: "Building tomorrows secure network today"
+        details: |
+             Building tomorrows secure network today. 
+             - About 3 years ago i started to relaise there were several gaps with modern networking requirements for the enterprise.
 
       - title: Home Automation
         link: "blog.cairbre.co.uk"
-        tagline: "Looking at home automation. Things like smart garage door, light up displays, garden lights, regular lights, games room lights."
-
-      - title: Home Server Pod
-        link: "blog.cairbre.co.uk"
-        tagline: "building out small server pod to run home automation, integration etc.."
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        details: |
+            Looking at home automation. 
+            - Things like smart garage door, light up displays, garden lights, regular lights, games room lights.
+            - including building home server pod clusters, using raspberry pi. 
+ 
 publications:
     title: Publications
     intro: |
       See my blog posts.
     papers:
       - title: blog.cairbre.co.uk
-        link: "#"
+        link: "blog.cairbre.co.uk"
         authors: Cairbre D.C Smith
         conference: London, UK, 2000
 
@@ -219,13 +203,13 @@ skills:
         level: 98%
 
       - name: Infrastrcture Architect
-        level: 98%
+        level: 95%
 
       - name: Cloud Architect
-        level: 98%
+        level: 90%
 
       - name: Dad's Taxi
-        level: 100%
+        level: 110%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
