@@ -32,7 +32,7 @@
     {% endif %}
 
     {% if contribution.details %}
-    - <span class="project-details">{{ contribution.details }}</span>
+    - <span class="project-details">{{ contribution.details | markdownify }}</span>
     {% endif %}
   </div>
   <!--//item-->
