@@ -31,6 +31,6 @@ compress_html: # - http://nothislink
     envs: development
 
 # Development Settings
-port: 4001
+port: 4000
 host: 0.0.0.0
 safe: false
