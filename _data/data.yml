@@ -14,7 +14,7 @@ sidebar:
 
     # Sidebar links
     email: cairbre@cairbre.co.uk 
-    phone: 07875007123 
+    phone: 07875007394
     timezone: Europe/London Timezone
     citizenship:
     website: blog.cairbre.co.uk #do not add http://
@@ -28,7 +28,7 @@ sidebar:
     #codewars:
     #goodreads: # Number-Username,
     pdf: http://blog.cairbre.co.uk/pdf/cairbresmith.pdf
-    print me: http://cairbre.co.uk/print
+    print: http://cairbre.co.uk/print
 
     languages:
       title: Languages
@@ -52,9 +52,9 @@ career-profile:
     title: Career Profile
     summary: |
       A seasoned and well accomplished IT Leader. 
-      A passion for Technical Architecture / Cyber Security with a proven track
-      record for design, build and implementation. Plying my trade across the breadth 
-      of the IT business lanscape I have operated at Technical, Solution and 
+      I have a passion for Technical Architecture / Cyber Security with a proven track
+      record for design, build and implementation. I have worked across the breadth 
+      of the IT business lanscape, operating at Technical, Solution and 
       Enterprise Architecture Levels. 
       I like to pride myself on exceeding the client expectations. 
 education:
@@ -134,15 +134,15 @@ tech:
         link: "N/A"
         details: |
           These are some of the technology delivery contributions that i have made over the years.
-      - Technology Contributions over the years. 
-      - Designed and Delivered 2-enterprise voice platforms for multiple cluster integrations across continents. With 9000+ Phones.
-      - Designed and implemented secure banking interconnect for retail ePOS environment.
-      - Designed and delivered B2B lodgment processes and global payment service gateway.
-      - Designed and Implemented ISP Migration Projects both technical and sponsor. 
-      - Designed a 2Million+ sq. ft. Depot Centre IT Infrastructure, inlcuding Communications and Service Layer.
-      - Introduced advanced set of security controls and deliverables for Business-to-Business connections. Lan2Lan VPN policy framework and guidelines.
-      - Integrated secure protocol standards for legacy system / platform transactions.  
-      - Designed and Validated Central Government Agency – DMVPN Overlay Solution. 
+            - Technology Contributions over the years. 
+            - Designed and Delivered 2-enterprise voice platforms for multiple cluster integrations across continents. With 9000+ Phones.
+            - Designed and implemented secure banking interconnect for retail ePOS environment.
+            - Designed and delivered B2B lodgment processes and global payment service gateway.
+            - Designed and Implemented ISP Migration Projects both technical and sponsor. 
+            - Designed a 2Million+ sq. ft. Depot Centre IT Infrastructure, inlcuding Communications and Service Layer.
+            - Introduced advanced set of security controls and deliverables for Business-to-Business connections. Lan2Lan VPN policy framework and guidelines.
+            - Integrated secure protocol standards for legacy system / platform transactions.  
+            - Designed and Validated Central Government Agency – DMVPN Overlay Solution. 
 certifications:
       title: Certifications
       list:
@@ -172,11 +172,11 @@ projects:
              Bridging the gap between food waste and food poverty locally. 
              - I support the local charity and the amzing work they do with supporting another 120 charities with food supplies.
 
-      - title: building a secure next generation access soltuion - SASE
+      - title: Building a secure next generation user access soltuion; SASE.
         link: "blog.cairbre.co.uk"
         details: |
-             Building tomorrows secure network today. 
-             - About 3 years ago i started to relaise there were several gaps with modern networking requirements for the enterprise.
+             Building tomorrow's secure network, today. 
+             - About 3 years ago i started to realise there were several gaps with modern networking requirements for the enterprise.
 
       - title: Home Automation
         link: "blog.cairbre.co.uk"
