@@ -27,8 +27,8 @@ sidebar:
     #stack-overflow: # Number/Username
     #codewars:
     #goodreads: # Number-Username,
-    pdf: cairbre.co.uk/pdf/cairbresmith-cv-print.pdf
-    print: cairbre.co.uk/print
+    pdf: /pdf/cairbresmith-cv-print.pdf
+    print: /print
 
     languages:
       title: Languages
@@ -66,7 +66,7 @@ education:
         details: |
           Dual Hours degree of Business and Sports Science. 
           Major degree in Business Studies with a Minor degree in Sport Science.
-            - Final Thesis was written on: 'The effects of Unsolicited Email within the workplace'
+            - Final thesis was written on: 'The effects of Unsolicited Email within the workplace'
       - degree: GCSE and A Level
         university: Millfield School
         time: 1992 - 2001
@@ -90,7 +90,7 @@ experiences:
         time: 2018 October - Present
         company: His Majesty's Courts and Tribunals Service, GOV UK
         details: |
-          Consultant Enterprise Architect for Infrastucture, Network and BAU application estate.
+          Consultant Lead Architect for Infrastucture, Network and BAU Estate.
           Provide strategic direction of travel for infrastructute and network services. 
           Provide Architectural technical assurance for technical board approval.   
             - Exmaples of work can be provided on request. 
