@@ -158,18 +158,25 @@ projects:
     intro: >
       Some of my day to day activities and hobbies.   
     assignments:
-      - title: Junior Organiser - Golf
+      - title: Junior Organiser and Junior Match Manager - Golf
         link: "amgc.co.uk"
         details: |
-            I am one of two Junior Organisor's for Ashford Manor Golf Club.
-            - I work with the Pro Team to manage the junior competition schedule. 
-            - I work with the AMGC Mgmt Team to facilitate junior activities.
+            I am the Junior Organisor for Ashford Manor Golf Club.
+            - I work with the Professional Golf Team to manage the junior competition and match schedule. 
+            - I work with the Club Management Team to facilitate junior activities and events.
+
+
+      - title: Junior Match Manager - Golf
+        link: "www.middlesexgolf.co.uk"
+        details: |
+            I am one of the Junior Managers at Middlesex County Golf
+
 
       - title: Surplus 2 Supper
         link: "www.surplustosupper.org"
         details: |
              Bridging the gap between food waste and food poverty locally. 
-             - I support the local charity and the amzing work they do with supporting another 120 charities with food supplies.
+             - I support the local charity and the amazing work they do with supporting another 120 charities with food supplies.
 
       - title: Building a secure next generation user access soltuion; SASE.
         link: "blog.cairbre.co.uk"
@@ -180,9 +187,9 @@ projects:
       - title: Home Automation
         link: "blog.cairbre.co.uk"
         details: |
-            Looking at home automation. 
+            Love home automation. 
             - Things like smart garage door, light up displays, garden lights, regular lights, games room lights.
-            - including building home server pod clusters, using raspberry pi. 
+            - including building home server pod clusters, using raspberry pi, etc. 
  
 publications:
     title: Publications
@@ -211,4 +218,4 @@ skills:
         level: 110%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i>
