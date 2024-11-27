@@ -54,7 +54,7 @@ career-profile:
       A seasoned and well accomplished IT Leader. 
       I have a passion for Technical Architecture / Cyber Security with a proven track
       record for design, build and implementation. I have worked across the breadth 
-      of the IT business lanscape, operating at Technical, Solution and 
+      of the IT business landscape, operating at Technical, Solution and 
       Enterprise Architecture Levels. 
       I like to pride myself on exceeding the client expectations. 
 education:
@@ -72,7 +72,7 @@ education:
         time: 1992 - 2001
         details: |
           Won a scholarship place to Millfield School, Somerset.
-            - Representive honours Cricket, Hockey and Tennis.
+            - Representative honours Cricket, Hockey and Tennis.
 
 experiences:
     title: Experiences
@@ -81,19 +81,19 @@ experiences:
         time: 2023 September - Present
         company: Tenacium, London
         details: |
-          Consulting Cyber Security and Infrastructure Architect. Resposibility
+          Consulting Cyber Security and Infrastructure Architect. Responsibility
           for architecture patterns and design. Provide support to project teams
           and engaging clients.
-            - Design and Assurance for inhouse application services.
-            - Responsibiity for cyber security engagement with clients.
+            - Design and Assurance for in-house application services.
+            - Responsibility for cyber security engagement with clients.
       - role: Consultant Lead Architect, BAU and Networks
         time: 2018 October - Present
         company: His Majesty's Courts and Tribunals Service, GOV UK
         details: |
-          Consultant Lead Architect for Infrastucture, Network and BAU Estate.
-          Provide strategic direction of travel for infrastructute and network services. 
+          Consultant Lead Architect for Infrastructure, Network and BAU Estate.
+          Provide strategic direction of travel for infrastructure and network services. 
           Provide Architectural technical assurance for technical board approval.   
-            - Exmaples of work can be provided on request. 
+            - Examples of work can be provided on request. 
       - role: Consultant Lead Technical Architect
         time: 2017 May - 2018 October
         company: Ministry of Justice, GOV UK
@@ -118,11 +118,11 @@ experiences:
         details: |
           Director of Engineering.
             - Technical Engineer providing expert analysis and solution proposals to clients.
-            - Technical Solution Desinger for Managed Service Provider to nuclear energy customer.
+            - Technical Solution Designer for Managed Service Provider to nuclear energy customer.
             - Consultant Cloud Architect for Cloud Service Partner to UK Gov Shared Business Supplier.
             - Consultant Infrastructure Architect UK Retail Water Company.
             - Network and Infrastructure Engineer Local Education Authority.
-            - Designed and Proposed - SDDC solution for Central Government Agency
+            - Designed and Proposed - SDDC (Software Defined Datacentre) solution for Central Government Agency
             - Architecture Assurance for UK Share Business Supplier Virtual Desktop Platform  
             - Hosted, Prepared and presented RFP / RFQ findings for numerous high profile spend projects. I.e. WAN review, Unified Communications Review, Wi-Fi Services within the retail and central gov environments.
 tech:
@@ -138,7 +138,7 @@ tech:
             - Designed and implemented secure banking interconnect for retail ePOS environment.
             - Designed and delivered B2B lodgment processes and global payment service gateway.
             - Designed and Implemented ISP Migration Projects both technical and sponsor. 
-            - Designed a 2Million+ sq. ft. Depot Centre IT Infrastructure, inlcuding Communications and Service Layer.
+            - Designed a 2Million+ sq. ft. Depot Centre IT Infrastructure, including Communications and Service Layer.
             - Introduced advanced set of security controls and deliverables for Business-to-Business connections. Lan2Lan VPN policy framework and guidelines.
             - Integrated secure protocol standards for legacy system / platform transactions.  
             - Designed and Validated Central Government Agency – DMVPN Overlay Solution. 
@@ -161,7 +161,7 @@ projects:
       - title: Junior Organiser and Junior Match Manager - Golf
         link: "amgc.co.uk"
         details: |
-            I am the Junior Organisor for Ashford Manor Golf Club.
+            I am the Junior Organiser for Ashford Manor Golf Club.
             - I work with the Professional Golf Team to manage the junior competition and match schedule. 
             - I work with the Club Management Team to facilitate junior activities and events.
 
@@ -170,6 +170,7 @@ projects:
         link: "www.middlesexgolf.co.uk"
         details: |
             I am one of the Junior Managers at Middlesex County Golf
+            - U18 Manager for the 2024 - 2025 season.
 
 
       - title: Surplus 2 Supper
@@ -178,7 +179,7 @@ projects:
              Bridging the gap between food waste and food poverty locally. 
              - I support the local charity and the amazing work they do with supporting another 120 charities with food supplies.
 
-      - title: Building a secure next generation user access soltuion; SASE.
+      - title: Building a secure next generation user access solution; SASE.
         link: "blog.cairbre.co.uk"
         details: |
              Building tomorrow's secure network, today. 
@@ -208,7 +209,7 @@ skills:
       - name: Network Architect
         level: 98%
 
-      - name: Infrastrcture Architect
+      - name: Infrastructure Architect
         level: 95%
 
       - name: Cloud Architect
