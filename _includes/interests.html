@@ -9,10 +9,10 @@
   <ul class="list-unstyled interests-list">
     {% for interest in interests.info %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.Music }}</a></li>
+      {% if interest.info.link %}
+      <li><a href="{{ interest.link }}">{{ interest.info.item }}</a></li>
       {% else %}
-      <li>{{ interest.Music }}</li>
+      <li>{{ interest.item }}</li>
       {% endif %}
 
     {% endfor %}
