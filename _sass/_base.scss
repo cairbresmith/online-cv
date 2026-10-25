@@ -1,4 +1,12 @@
 /* ======= Base ======= */
+// Falls back to a darker shade of the skin's own theme color if a skin
+// doesn't define its own $accent-color.
+$accent-color: darken($theme-color, 15%) !default;
+
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
@@ -58,11 +66,38 @@ p {
     text-align: center;
     color: #fff;
   }
+  .section-nav {
+    padding: 15px 30px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  .section-nav-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    margin: 0;
+    li {
+      margin: 0;
+    }
+    a {
+      font-size: 13px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.02em;
+      opacity: 0.8;
+      &:hover {
+        opacity: 1;
+        text-decoration: underline;
+      }
+    }
+  }
   .name {
     font-size: 32px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 3px solid $accent-color;
+    display: inline-block;
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
@@ -79,7 +114,7 @@ p {
     //used for profile image
     max-width: 100px;
     margin-bottom: 15px;
-    border: 0px solid #fff;
+    border: 3px solid $accent-color;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   }
@@ -168,7 +203,7 @@ p {
     text-transform: uppercase;
     font-size: 20px;
     font-weight: 500;
-    color: darken($theme-color, 15%);
+    color: $accent-color;
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
@@ -258,17 +293,28 @@ p {
     overflow: hidden;
   }
   .level-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 12px;
   }
+  .level-label {
+    font-size: 12px;
+    font-weight: 400;
+    color: $text-grey;
+    margin-left: 6px;
+  }
   .level-bar {
     height: 12px;
     background: $smoky-white;
+    overflow: hidden;
   }
   .level-bar-inner {
     height: 12px;
-    background: lighten($theme-color, 15%);
+    max-width: 100%;
+    background: $accent-color;
   }
 }
 

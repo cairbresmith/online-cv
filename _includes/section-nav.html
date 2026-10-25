@@ -1,0 +1,12 @@
+{% assign d = site.data.data %}
+<nav class="section-nav" aria-label="Page sections">
+  <ul class="list-unstyled section-nav-list">
+    {% if d.career-profile %}<li><a href="#profile">Profile</a></li>{% endif %}
+    {% if d.experiences %}<li><a href="#experience">Experience</a></li>{% endif %}
+    {% if d.certifications %}<li><a href="#certifications">Certifications</a></li>{% endif %}
+    {% if d.projects %}<li><a href="#projects">Projects</a></li>{% endif %}
+    {% if d.tech %}<li><a href="#tech">Tech</a></li>{% endif %}
+    {% if d.publications %}<li><a href="#publications">Publications</a></li>{% endif %}
+    {% if d.skills %}<li><a href="#skills">Skills</a></li>{% endif %}
+  </ul>
+</nav><!--//section-nav-->
