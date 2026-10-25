@@ -46,4 +46,10 @@
      color: #ffffff !important;
    }
 
+    /* Hide buttons when printing */
+    .print-button,
+    .pdf-button,
+    .d-print-none {
+        display: none !important;
+    }
 }
